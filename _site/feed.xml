@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
+    <title>A Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 13 Aug 2019 16:41:47 +0100</pubDate>
-    <lastBuildDate>Tue, 13 Aug 2019 16:41:47 +0100</lastBuildDate>
+    <pubDate>Tue, 13 Aug 2019 17:26:51 +0100</pubDate>
+    <lastBuildDate>Tue, 13 Aug 2019 17:26:51 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -21,8 +21,8 @@ golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
 texture, with a sweet and unique flavor.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/01/kiwifruit.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/01/kiwifruit.html</guid>
+        <link>http://localhost:4000/2019/08/01/kiwifruit/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/01/kiwifruit/</guid>
         
         
       </item>
@@ -39,8 +39,8 @@ starch covered with a rind, which may be green, yellow, red, purple, or brown
 when ripe.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/01/bananas.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/01/bananas.html</guid>
+        <link>http://localhost:4000/2019/08/01/bananas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/01/bananas/</guid>
         
         
       </item>
@@ -56,8 +56,8 @@ years in Asia and Europe, and were brought to North America by European
 colonists.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/08/01/apples.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/01/apples.html</guid>
+        <link>http://localhost:4000/2019/08/01/apples/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/01/apples/</guid>
         
         
       </item>
@@ -80,8 +80,8 @@ colonists.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 31 Jul 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/07/31/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/31/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/2019/07/31/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/31/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -91,8 +91,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -104,8 +104,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -117,8 +117,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -130,8 +130,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -143,8 +143,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -156,8 +156,8 @@ colonists.&lt;/p&gt;
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5.html</guid>
+        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>
