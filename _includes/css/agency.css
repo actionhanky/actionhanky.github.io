@@ -12,6 +12,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.col-md-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }

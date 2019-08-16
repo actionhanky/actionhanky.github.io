@@ -20,6 +20,11 @@ body {
     color: #333;
 }
 
+.col-md-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .text-muted {
     color: #777;
 }
@@ -876,5 +881,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #85d8ed;
 }
-
 
