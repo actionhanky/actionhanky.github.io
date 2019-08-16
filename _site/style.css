@@ -14,7 +14,10 @@
 
 body {
     overflow-x: hidden;
-    width: fit-content;
+    /* width: fit-content; */
+    position: fixed;
+    right: 0;
+    left: 0;
     font-family: "Roboto Slab","Roboto",Helvetica,Arial,sans-serif;
     color: #333;
 }
