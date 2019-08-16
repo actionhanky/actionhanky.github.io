@@ -91,7 +91,7 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #85d8ed;
+    border-color: #c385ed;
     color: #fff;
     background-color: #c385ed;
 }
@@ -130,6 +130,7 @@ fieldset[disabled] .btn-primary.active {
     padding: 20px 40px;
     border-color: #85d8ed;
     border-radius: 3px;
+    border: 1px;
     text-transform: uppercase;
     font-family: Roboto Slab, Roboto, Helvetica,Arial,sans-serif;
     font-size: 18px;
@@ -666,7 +667,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/img/message-in-a-bottle.jpg');
+    background-image: url('/img/message-in-a-bottle.png');
     background-position: center;
     background-repeat: no-repeat;
 }
