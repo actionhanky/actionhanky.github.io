@@ -766,6 +766,7 @@ footer ul.quicklinks {
 
 ul.social-buttons {
     margin-bottom: 0;
+    padding: 5px;
 }
 
 ul.social-buttons li a {
