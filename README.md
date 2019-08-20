@@ -15,11 +15,11 @@ Images are in '/img/posts'
 
 Images are in '/img/about/'
 
-###Team
+###Profile
 
-Team members and info are in '_config.yml'
+Profile members and info are in '_config.yml'
 
-Images are in '/img/team/'
+Images are in '/img/profile/'
 
 
 # Demo
