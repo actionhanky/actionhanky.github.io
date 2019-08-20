@@ -7,5 +7,6 @@ color:
 
 # Font Families
 font:
-  primary: Roboto Slab, Roboto, Helvetica,Arial,sans-serif
-  secondary: 'Roboto, "Helvetica Neue", Helvetica,Arial,sans-serif'
+  #primary: Roboto Slab, Roboto, Helvetica,Arial,sans-serif
+  primary: Bodoni, Roboto, Helvetica,Arial,sans-serif
+  secondary: 'Bodoni, "Helvetica Neue", Helvetica,Arial,sans-serif'
