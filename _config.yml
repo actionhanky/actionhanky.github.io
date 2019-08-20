@@ -13,17 +13,6 @@ google_analytics: UA-51110761-2
 # Team names, titles and social links
 people:
 - name: a
-  pic: 1
-  position: a
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: a
   pic: 2
   position: a
   social:

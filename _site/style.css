@@ -648,6 +648,13 @@ section h3.section-subheading {
     }
 }
 
+.profile-member {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -770,7 +777,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #85d8ed;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -779,7 +786,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #85d8ed;
+    background-color: #c385ed;
 }
 
 .btn:focus,
