@@ -1,0 +1,12 @@
+---
+title: Culture
+subtitle: When considering culture, consider Schwarzenegger.
+layout: default
+modal-id: 1
+date: 2019-08-23
+img: schwarz.jpg
+thumbnail: schwarz.jpg
+alt: image-alt
+category: Leadership
+description: Always lauded but rarely great, organisational culture is often crap. Schwarzenegger's words always repeat when I consider the topic.
+---
