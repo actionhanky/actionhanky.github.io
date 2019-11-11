@@ -6,6 +6,14 @@
 
     <body id="page-top" class="index">
 
+    <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+    </ul>
+
     {% include header.html %}
     {% include posts_grid.html %}
     {% include profile.html %}
