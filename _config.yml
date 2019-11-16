@@ -1,13 +1,11 @@
-url: https://actionhanky.github.io
-baseurl: ''
-enforce_ssl: hields.co.uk
-
 # Site settings
 title: Hields
 email: samuel.hields@gmail.com
 description: "Thoughts to words and the rest."
+url: https://actionhanky.github.io
+baseurl: ''
+enforce_ssl: hields.co.uk
 permalink: /blog/:title/
-
 
 # Google Analytics
 google_analytics: UA-51110761-2

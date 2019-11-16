@@ -11,7 +11,7 @@
                 {% for member in site.people %}
                 <div class="col-lg-12">
                     <div class="profile-member">
-                        <img src="img/profile/{{ member.pic }}.jpg" class="img-responsive img-circle img-centered" alt="">
+                        <img src="{{ site.baseurl }}/img/profile/{{ member.pic }}.jpg" class="img-responsive img-circle img-centered" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
