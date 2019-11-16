@@ -3,9 +3,11 @@ title: Hields
 email: samuel.hields@gmail.com
 description: "Thoughts to words and the rest."
 url: https://actionhanky.github.io
-baseurl: ''
+#baseurl: ''
 enforce_ssl: hields.co.uk
-permalink: /blog/:title/
+#permalink: /blog/:title/
+#permalink: "/:title"
+permalink: :title/
 
 # Google Analytics
 google_analytics: UA-51110761-2
