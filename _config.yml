@@ -15,14 +15,14 @@ google_analytics: UA-51110761-2
 
 # Team names, titles and social links
 people:
-- name: a
-  pic: 2
-  position: a
+- name: Sam
+  pic: 1
+  position: Venture Capitalist
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hields/
     - title: github
-      url: #
+      url: https://github.com/actionhanky
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -35,9 +35,9 @@ social:
   #- title: bitbucket 
   #  url: http://bitbucket.org/jekyll
   - title: linkedin
-    url: #
+    url: https://www.linkedin.com/in/hields/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/actionhanky
 
 # Postal address (add as many lines as necessary)
 address:
