@@ -7,7 +7,7 @@ url: https://actionhanky.github.io
 enforce_ssl: hields.co.uk
 #permalink: /blog/:title/
 #permalink: "/:title"
-permalink: :title/
+permalink: /blog/:year/:title/
 
 # Google Analytics
 google_analytics: UA-51110761-2
