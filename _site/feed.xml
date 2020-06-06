@@ -5,20 +5,28 @@
     <description>Thoughts to words and the rest.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Jun 2020 19:13:31 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2020 19:13:31 +0100</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2020 19:23:39 +0100</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2020 19:23:39 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Culture</title>
-        <description>&lt;h1 id=&quot;header&quot;&gt;header&lt;/h1&gt;
-&lt;p&gt;stuff&lt;/p&gt;
+        <description>&lt;h2 id=&quot;culture-muscles&quot;&gt;Culture muscles&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A well-built physique is a status symbol. It reflects you worked hard for it; no money can buy it. You cannot borrow it, you cannot inherit it, you cannot steal it. You cannot hold onto it without constant work. It shows discipline, it shows self-respect, it shows patience, work ethic, and passion. That is why I do what I do.
+– Arnold Schwarzenegger&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have always considered a well-built culture to act exactly how Arnie describes physique.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Aug 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2019/08/23/culture/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/08/23/culture/</guid>
         
-        <category>Leadership</category>
+        <category>leadership</category>
+        
+        <category>culture</category>
         
         
       </item>
