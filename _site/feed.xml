@@ -5,9 +5,31 @@
     <description>Thoughts to words and the rest.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Jun 2020 19:23:39 +0100</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2020 19:23:39 +0100</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2020 21:52:55 +0100</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2020 21:52:55 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Standards</title>
+        <description>&lt;h2 id=&quot;leave-the-crusts-on&quot;&gt;Leave the crusts on&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bread. What is it good for?
+– PB&amp;amp;J&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Brown bread.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jul 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/07/17/culture-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/17/culture-copy/</guid>
+        
+        <category>operations</category>
+        
+        <category>data</category>
+        
+        
+      </item>
     
       <item>
         <title>Culture</title>

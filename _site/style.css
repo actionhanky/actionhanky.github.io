@@ -692,6 +692,19 @@ section h3.section-subheading {
     }
 }
 
+.profile-pic {
+    object-fit: cover;
+}
+
+.profile-pic:hover { /*HOVER STYLES HERE*/ }
+
+.post-img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
 .profile-member {
     display: block;
     margin-left: auto;
