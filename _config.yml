@@ -4,8 +4,6 @@ description: "Thoughts to words and the rest."
 url: https://actionhanky.github.io
 #baseurl: ''
 enforce_ssl: hields.co.uk
-#permalink: /blog/:title/
-#permalink: "/:title"
 permalink: /blog/:year/:title/
 
 # Google Analytics
@@ -22,18 +20,9 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  #- title: twitter
-  #  url: http://twitter.com/jekyllrb
-  #- title: facebook
-  #  url:
-  #- title: stack-overflow
-  #  url: http://stackoverflow.com/questions/tagged/jekyll
-  #- title: bitbucket 
-  #  url: http://bitbucket.org/jekyll
   - title: linkedin
     url: https://www.linkedin.com/in/hields/
-  #- title: github
-  #  url: https://github.com/actionhanky
+
 
 # Postal address (add as many lines as necessary)
 address:
@@ -42,4 +31,3 @@ address:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
